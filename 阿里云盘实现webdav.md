@@ -1,35 +1,35 @@
-#阿里云盘映射到本地磁盘教程
+# 阿里云盘映射到本地磁盘教程
 
-##准备工具
+## 准备工具
 
 -------------------------------------------------
 
 首先需要准备的工具有:
 java
 raidrive
-##安装软件
+## 安装软件
 
 ---------------------------------------------------------------------------
 
 安装java(以下提供文件一键打包)
 
-*java官方下载链接（9.2）
+* java官方下载链接（9.2）
 
 <https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/JavaSetup8u301.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/JavaSetup8u301.exe&BHost=javadl.sun.com&File=JavaSetup8u301.exe&AuthParam=1630544859_996bd1cbf99cb607c3656c67ee696e10&ext=.exe>
 
-*raidrive的官方下载地址(一般情况下下载速度会很慢):
+* raidrive的官方下载地址(一般情况下下载速度会很慢):
 <https://dw85.uptodown.com/dwn/3pafw1bUyb46bYs-x-qhYEv1DUGW-K3652EEB8T1NZMo1AWcTLZdmsIo3YIBzs7zW_NlIAr2WPB-Fh4CPDa_n8M6b2WT7QiFpp-XfXzYlWkBc9sfGVOXNQAm3CqMV1ro/LLsYOxrCPB4x3vMqkwwxd1pt1CmrV1ZO9-HsadS_OXqqYFzIGQMnSiMjSYDA8RPEp2BL0LWvExOelJ8SJsZv5A9w0967FNIFvcGgQQ9FXtmKT4Tq9mexK_VunzbCtCtv/sIoURY9Mbev1KTTCMV6wNmUM0b-29Gju_KTUCSAHxHKUb63q47R28b3P0p4ZQkVjCMbo3uMrZIDpj9sm8JGthQ==/raidrive-2021-5-20.exe>
 
-*raidrive阿里云盘下载地址:
+* raidrive阿里云盘下载地址:
  链接：<https://www.aliyundrive.com/s/qqWi3mnT44n>
 
-*raidrive ipfs网盘下载地址(打开浏览器粘贴链接直接下载，优先使用):
+* raidrive ipfs网盘下载地址(打开浏览器粘贴链接直接下载，优先使用):
 
 <https://ipfs.fleek.co/ipfs/QmPh1HYH3oUcqus7PhNv1vqPpZ7nGnN6cJeFrSgJ3mzyLo>
 
 下载完成后手动改名，文件后缀加上 .exe
 
-*阿里云盘实现Webdav（单独的软件，有能力的自己折腾）：
+* 阿里云盘实现Webdav（单独的软件，有能力的自己折腾）：
 
 项目地址[^*]：<https://github.com/zxbu/webdav-aliyundriver>
 
@@ -46,7 +46,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 提取码：8888
 
 下载完成后，确认java  raidrive 已安装完成
-#‌#获取token
+## 获取token
 
 ---
 
@@ -63,7 +63,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 然后在中间框选中token,在最下方的框中下滑找到refresh_token,复制引号里面的值
 
-##运行实现软件
+## 运行实现软件
 
 -----------------------------
 
@@ -79,7 +79,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 然后另外一个.bat的文件也执行上述操作
 
-##运行程序
+## 运行程序
 
 --------------------------
 
@@ -91,7 +91,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 出现上诉截图已经表明已运行服务(使用时不能关闭这个黑框框)
 
-##连接到Webdav
+## 连接到Webdav
 
 -------
 
