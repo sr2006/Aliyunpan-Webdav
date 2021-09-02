@@ -14,7 +14,7 @@
 
 * java官方下载链接（9.2）
 
-<https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/JavaSetup8u301.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/JavaSetup8u301.exe&BHost=javadl.sun.com&File=JavaSetup8u301.exe&AuthParam=1630544859_996bd1cbf99cb607c3656c67ee696e10&ext=.exe>
+[Download Java for Windows](https://www.java.com/zh-CN/download/)
 
 * raidrive的官方下载地址(一般情况下下载速度会很慢):
 <https://dw85.uptodown.com/dwn/3pafw1bUyb46bYs-x-qhYEv1DUGW-K3652EEB8T1NZMo1AWcTLZdmsIo3YIBzs7zW_NlIAr2WPB-Fh4CPDa_n8M6b2WT7QiFpp-XfXzYlWkBc9sfGVOXNQAm3CqMV1ro/LLsYOxrCPB4x3vMqkwwxd1pt1CmrV1ZO9-HsadS_OXqqYFzIGQMnSiMjSYDA8RPEp2BL0LWvExOelJ8SJsZv5A9w0967FNIFvcGgQQ9FXtmKT4Tq9mexK_VunzbCtCtv/sIoURY9Mbev1KTTCMV6wNmUM0b-29Gju_KTUCSAHxHKUb63q47R28b3P0p4ZQkVjCMbo3uMrZIDpj9sm8JGthQ==/raidrive-2021-5-20.exe>
