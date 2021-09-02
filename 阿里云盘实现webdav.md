@@ -55,11 +55,11 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 点击右上角进行网页版登录操作
 登录成功后，打开开发者工具(按F12，或者在网页页面右键点击检查)，
 
-![image-20210902092128957](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902092128957.png)
+
 
 上面的功能栏切换到Application,左侧栏切换到Local Storage,展开选择那唯一一项
 
-![image-20210902092642693](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902092642693.png)
+
 
 然后在中间框选中token,在最下方的框中下滑找到refresh_token,复制引号里面的值
 
@@ -71,7 +71,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 里面有两个.bat后缀名的文件，右键其中一个，选择“编辑”
 
-![image-20210902093429791](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902093429791.png)
+
 
 将引号里面的内容和引号本身（也就是上图选中内容）替换为自己之前在浏览器获得的refresh_token
 
@@ -87,7 +87,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 如果已安装好java,随便运行其中一个
 
-![image-20210902094329174](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902094329174.png)
+
 
 出现上诉截图已经表明已运行服务(使用时不能关闭这个黑框框)
 
@@ -107,14 +107,14 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 完成后点击确定
 
-![image-20210902094828377](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902094828377.png)
 
-![image-20210902095342144](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902095342144.png)
+
+
 
 点击三角形符号，开始连接
 
 成功之后就会在资源管理器中看到一个网络位置了
 
-![image-20210902095555301](C:\Users\86133\AppData\Roaming\Typora\typora-user-images\image-20210902095555301.png)
+
 
  
