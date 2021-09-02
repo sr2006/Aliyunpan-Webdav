@@ -1,5 +1,6 @@
 # 阿里云盘映射到本地磁盘教程
 
+[b站视频操作地址](https://www.bilibili.com/video/BV1hf4y1J74A)
 ## 准备工具
 
 
