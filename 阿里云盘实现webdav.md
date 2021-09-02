@@ -2,14 +2,13 @@
 
 ## 准备工具
 
--------------------------------------------------
+
 
 首先需要准备的工具有:
-java
-raidrive
+* java
+* raidrive
 ## 安装软件
 
----------------------------------------------------------------------------
 
 安装java(以下提供文件一键打包)
 
@@ -48,7 +47,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 下载完成后，确认java  raidrive 已安装完成
 ## 获取token
 
----
+
 
 打开浏览器输入阿里云盘网页版网址：
 [阿里云盘 - 公测进行中·阿里巴巴集团出品 (aliyundrive.com)](https://www.aliyundrive.com/)
@@ -65,7 +64,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 ## 运行实现软件
 
------------------------------
+
 
 将文件一键打包的压缩包解压
 
@@ -81,7 +80,6 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 ## 运行程序
 
---------------------------
 
 如果之前没有安装好java，则双击运行“启动.bat”这一个文件
 
@@ -93,7 +91,7 @@ https://pan.baidu.com/s/1uQp5eSSHEzfWLWAOr-T2vA
 
 ## 连接到Webdav
 
--------
+
 
 打开raidrive
 
