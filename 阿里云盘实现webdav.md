@@ -30,9 +30,9 @@
 
 * 阿里云盘实现Webdav（单独的软件，有能力的自己折腾）：
 
-项目地址[^.]： <https://github.com/zxbu/webdav-aliyundriver>
+项目地址： <https://github.com/zxbu/webdav-aliyundriver>
 
-[^.]: 喝水不忘挖井人
+
 
 文件一键打包下载地址：
 
